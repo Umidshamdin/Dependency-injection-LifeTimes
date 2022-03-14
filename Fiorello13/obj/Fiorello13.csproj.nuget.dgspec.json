@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Umid\\Desktop\\Fiorello-Models\\Fiorello13\\Fiorello13\\Fiorello13.csproj": {}
+    "C:\\Users\\Umid\\Desktop\\AdminPanel\\Fiorello13\\Fiorello13\\Fiorello13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Umid\\Desktop\\Fiorello-Models\\Fiorello13\\Fiorello13\\Fiorello13.csproj": {
+    "C:\\Users\\Umid\\Desktop\\AdminPanel\\Fiorello13\\Fiorello13\\Fiorello13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Umid\\Desktop\\Fiorello-Models\\Fiorello13\\Fiorello13\\Fiorello13.csproj",
+        "projectUniqueName": "C:\\Users\\Umid\\Desktop\\AdminPanel\\Fiorello13\\Fiorello13\\Fiorello13.csproj",
         "projectName": "Fiorello13",
-        "projectPath": "C:\\Users\\Umid\\Desktop\\Fiorello-Models\\Fiorello13\\Fiorello13\\Fiorello13.csproj",
+        "projectPath": "C:\\Users\\Umid\\Desktop\\AdminPanel\\Fiorello13\\Fiorello13\\Fiorello13.csproj",
         "packagesPath": "C:\\Users\\Umid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Umid\\Desktop\\Fiorello-Models\\Fiorello13\\Fiorello13\\obj\\",
+        "outputPath": "C:\\Users\\Umid\\Desktop\\AdminPanel\\Fiorello13\\Fiorello13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Umid\\AppData\\Roaming\\NuGet\\NuGet.Config",
